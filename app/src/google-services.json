@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095249336096",
+    "project_id": "conditionalflagging-remoteconf",
+    "storage_bucket": "conditionalflagging-remoteconf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095249336096:android:6ddbf5d6b63139b3cf2945",
+        "android_client_info": {
+          "package_name": "com.example.conditionalflagging_remoteconfig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwRvx5FWs3ldp9G2USS-lPKbzLYwTiqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
